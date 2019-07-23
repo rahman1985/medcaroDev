@@ -1,0 +1,33 @@
+2019-07-05T08:08:22+00:00 CRITICAL Uncaught Error: Call to undefined function wcfm_is_vendor() in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/wc-multivendor-marketplace/helpers/wcfmmp-core-functions.php:724
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): {closure}(Object(WP_Query))
+#1 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-query.php(1753): do_action_ref_array('pre_get_posts', Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-query.php(3404): WP_Query->get_posts()
+#5 /home1/flipware/public_html/medcaro/dev/wp-includes/post.php(1961): WP_Query->query(Array)
+#6 /home1/flipware/public_html/medcaro/dev/wp-content/themes/docdirect/directory/hooks.php(1251): get_posts(Array)
+#7 /home1/flipware/public_html/medcaro/dev/wp-content/themes/docdir in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/wc-multivendor-marketplace/helpers/wcfmmp-core-functions.php on line 724
+
+2019-07-05T10:12:31+00:00 CRITICAL Uncaught Error: Call to undefined function wcfm_is_vendor() in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/wc-multivendor-marketplace/helpers/wcfmmp-core-functions.php:724
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): {closure}(Object(WP_Query))
+#1 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-query.php(1753): do_action_ref_array('pre_get_posts', Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-query.php(3404): WP_Query->get_posts()
+#5 /home1/flipware/public_html/medcaro/dev/wp-includes/post.php(1961): WP_Query->query(Array)
+#6 /home1/flipware/public_html/medcaro/dev/wp-content/themes/docdirect/directory/hooks.php(1251): get_posts(Array)
+#7 /home1/flipware/public_html/medcaro/dev/wp-content/themes/docdir in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/wc-multivendor-marketplace/helpers/wcfmmp-core-functions.php on line 724
+
+2019-07-05T13:38:45+00:00 CRITICAL Uncaught Error: Call to undefined function wcfm_is_vendor() in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/wc-multivendor-marketplace/helpers/wcfmmp-core-functions.php:724
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): {closure}(Object(WP_Query))
+#1 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-query.php(1753): do_action_ref_array('pre_get_posts', Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-query.php(3404): WP_Query->get_posts()
+#5 /home1/flipware/public_html/medcaro/dev/wp-includes/post.php(1961): WP_Query->query(Array)
+#6 /home1/flipware/public_html/medcaro/dev/wp-content/themes/docdirect/directory/hooks.php(1251): get_posts(Array)
+#7 /home1/flipware/public_html/medcaro/dev/wp-content/themes/docdir in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/wc-multivendor-marketplace/helpers/wcfmmp-core-functions.php on line 724
+

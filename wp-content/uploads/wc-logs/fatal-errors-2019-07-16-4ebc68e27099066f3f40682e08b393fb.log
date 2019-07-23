@@ -1,0 +1,82 @@
+2019-07-16T08:44:52+00:00 CRITICAL Object of class DateTime could not be converted to string in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 169
+
+2019-07-16T08:51:33+00:00 CRITICAL Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2019-07-102030-2200) at position 10 (2): Double date specification' in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php:170
+Stack trace:
+#0 /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php(170): DateTime->__construct('2019-07-102030-...')
+#1 /var/www/html/medcaronew/wp-includes/template.php(724): require('/var/www/html/m...')
+#2 /var/www/html/medcaronew/wp-includes/template.php(671): load_template('/var/www/html/m...', false)
+#3 /var/www/html/medcaronew/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#4 /var/www/html/medcaronew/wp-content/themes/docdirect/directory/user-profile.php(76): get_template_part('directory/booki...', 'bookings')
+#5 /var/www/html/medcaronew/wp-includes/template-loader.php(78): include('/var/www/html/m...')
+#6 /var/www/html/medcaronew/wp-blog-header.php(19): req in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 170
+
+2019-07-16T08:52:09+00:00 CRITICAL Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2019-07-102030-2200) at position 10 (2): Double date specification' in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php:171
+Stack trace:
+#0 /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php(171): DateTime->__construct('2019-07-102030-...')
+#1 /var/www/html/medcaronew/wp-includes/template.php(724): require('/var/www/html/m...')
+#2 /var/www/html/medcaronew/wp-includes/template.php(671): load_template('/var/www/html/m...', false)
+#3 /var/www/html/medcaronew/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#4 /var/www/html/medcaronew/wp-content/themes/docdirect/directory/user-profile.php(76): get_template_part('directory/booki...', 'bookings')
+#5 /var/www/html/medcaronew/wp-includes/template-loader.php(78): include('/var/www/html/m...')
+#6 /var/www/html/medcaronew/wp-blog-header.php(19): req in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 171
+
+2019-07-16T08:52:19+00:00 CRITICAL Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2019-07-102030-2200) at position 10 (2): Double date specification' in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php:171
+Stack trace:
+#0 /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php(171): DateTime->__construct('2019-07-102030-...')
+#1 /var/www/html/medcaronew/wp-includes/template.php(724): require('/var/www/html/m...')
+#2 /var/www/html/medcaronew/wp-includes/template.php(671): load_template('/var/www/html/m...', false)
+#3 /var/www/html/medcaronew/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#4 /var/www/html/medcaronew/wp-content/themes/docdirect/directory/user-profile.php(76): get_template_part('directory/booki...', 'bookings')
+#5 /var/www/html/medcaronew/wp-includes/template-loader.php(78): include('/var/www/html/m...')
+#6 /var/www/html/medcaronew/wp-blog-header.php(19): req in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 171
+
+2019-07-16T08:53:02+00:00 CRITICAL Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2019-07-102030-2200) at position 10 (2): Double date specification' in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php:171
+Stack trace:
+#0 /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php(171): DateTime->__construct('2019-07-102030-...')
+#1 /var/www/html/medcaronew/wp-includes/template.php(724): require('/var/www/html/m...')
+#2 /var/www/html/medcaronew/wp-includes/template.php(671): load_template('/var/www/html/m...', false)
+#3 /var/www/html/medcaronew/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#4 /var/www/html/medcaronew/wp-content/themes/docdirect/directory/user-profile.php(76): get_template_part('directory/booki...', 'bookings')
+#5 /var/www/html/medcaronew/wp-includes/template-loader.php(78): include('/var/www/html/m...')
+#6 /var/www/html/medcaronew/wp-blog-header.php(19): req in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 171
+
+2019-07-16T08:53:07+00:00 CRITICAL Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2019-07-102030-2200) at position 10 (2): Double date specification' in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php:171
+Stack trace:
+#0 /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php(171): DateTime->__construct('2019-07-102030-...')
+#1 /var/www/html/medcaronew/wp-includes/template.php(724): require('/var/www/html/m...')
+#2 /var/www/html/medcaronew/wp-includes/template.php(671): load_template('/var/www/html/m...', false)
+#3 /var/www/html/medcaronew/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#4 /var/www/html/medcaronew/wp-content/themes/docdirect/directory/user-profile.php(76): get_template_part('directory/booki...', 'bookings')
+#5 /var/www/html/medcaronew/wp-includes/template-loader.php(78): include('/var/www/html/m...')
+#6 /var/www/html/medcaronew/wp-blog-header.php(19): req in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 171
+
+2019-07-16T08:55:36+00:00 CRITICAL Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2019-07-102030-2200) at position 10 (2): Double date specification' in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php:169
+Stack trace:
+#0 /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php(169): DateTime->__construct('2019-07-102030-...')
+#1 /var/www/html/medcaronew/wp-includes/template.php(724): require('/var/www/html/m...')
+#2 /var/www/html/medcaronew/wp-includes/template.php(671): load_template('/var/www/html/m...', false)
+#3 /var/www/html/medcaronew/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#4 /var/www/html/medcaronew/wp-content/themes/docdirect/directory/user-profile.php(76): get_template_part('directory/booki...', 'bookings')
+#5 /var/www/html/medcaronew/wp-includes/template-loader.php(78): include('/var/www/html/m...')
+#6 /var/www/html/medcaronew/wp-blog-header.php(19): req in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 169
+
+2019-07-16T08:59:50+00:00 CRITICAL Object of class DateTime could not be converted to string in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 170
+
+2019-07-16T09:00:00+00:00 CRITICAL Object of class DateTime could not be converted to string in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 170
+
+2019-07-16T09:01:07+00:00 CRITICAL Object of class DateTime could not be converted to string in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 171
+
+2019-07-16T09:01:15+00:00 CRITICAL Object of class DateTime could not be converted to string in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 171
+
+2019-07-16T09:07:48+00:00 CRITICAL Object of class DateTime could not be converted to string in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 170
+
+2019-07-16T09:08:00+00:00 CRITICAL Object of class DateTime could not be converted to string in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 170
+
+2019-07-16T09:08:46+00:00 CRITICAL Object of class DateTime could not be converted to string in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 170
+
+2019-07-16T09:08:57+00:00 CRITICAL Object of class DateTime could not be converted to string in /var/www/html/medcaronew/wp-content/themes/docdirect/directory/bookings/templates/user-bookings.php on line 170
+
+2019-07-16T13:24:03+00:00 CRITICAL Call to undefined function word_count() in /var/www/html/medcaronew/wp-content/themes/docdirect/myPageView.php on line 22
+
+2019-07-16T13:24:14+00:00 CRITICAL Call to undefined function word_count() in /var/www/html/medcaronew/wp-content/themes/docdirect/myPageView.php on line 22
+

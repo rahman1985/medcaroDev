@@ -1,0 +1,252 @@
+2019-06-29T00:47:11+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T03:05:32+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T03:25:30+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T03:51:45+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T04:36:49+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T05:23:34+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T05:25:40+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T07:55:17+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T10:32:19+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T12:40:22+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T13:56:27+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T15:32:14+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T16:11:58+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T16:12:21+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T16:16:01+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T17:43:35+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T18:56:43+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T19:04:02+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T20:43:14+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T21:00:19+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
+2019-06-29T21:27:39+00:00 CRITICAL Uncaught Error: Class 'IG_Tracker_V_1_0_1' not found in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php:1248
+Stack trace:
+#0 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(43): Icegram->include_classes()
+#1 /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php(1856): Icegram->__construct()
+#2 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(286): initialize_icegram('')
+#3 /home1/flipware/public_html/medcaro/dev/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(Object(MonsterInsights_Lite), Array)
+#4 /home1/flipware/public_html/medcaro/dev/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home1/flipware/public_html/medcaro/dev/wp-settings.php(394): do_action('plugins_loaded')
+#6 /home1/flipware/public_html/medcaro/dev/wp-config.php(82): require_once('/home1/flipware...')
+#7 /home1/flipware/public_html/medcaro/dev/wp-load.php(37): require_once('/home1/flipware...')
+#8 /home1/flipware/pu in /home1/flipware/public_html/medcaro/dev/wp-content/plugins/icegram/icegram.php on line 1248
+
